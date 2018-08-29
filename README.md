@@ -4,9 +4,9 @@ Blog of Villaviecencio ACM is based on jekyll.
 
 ## Requirements
 
-https://jekyllrb.com/docs/installation/
+https://jekyllrb.com/docs/installation/ 
 
-## Run local
+## Run local
 
 ```
 bundle exec jekyll serve --drafts --future
