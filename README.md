@@ -1,6 +1,6 @@
-# Blog of Villaviecencio ACM
+# Blog of Villavicencio ACM
 
-Blog of Villaviecencio ACM is based on jekyll.
+Blog of [Villavicencio ACM Chapter][blog] is based on jekyll.
 
 ## Requirements
 
@@ -15,3 +15,5 @@ bundle exec jekyll serve --drafts --future
 ## Editing Markdown
 
 https://markdown-guide.readthedocs.io/en/latest/basics.html
+
+[blog]: https://villavicencioacm.github.io
