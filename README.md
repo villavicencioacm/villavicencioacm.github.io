@@ -10,7 +10,7 @@ https://jekyllrb.com/docs/installation/
 
 ```
 bundle exec jekyll serve --drafts --future
-``
+```
 
 ## Editing Markdown
 
