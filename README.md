@@ -12,6 +12,8 @@ https://jekyllrb.com/docs/installation/
 bundle exec jekyll serve --drafts --future
 ```
 
+http://localhost:4000/
+
 ## Editing Markdown
 
 https://markdown-guide.readthedocs.io/en/latest/basics.html
