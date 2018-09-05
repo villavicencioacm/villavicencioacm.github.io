@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Engineer Day"
-date:   2018-08-31 19:00:00 -0500
+date:   2018-09-01 14:00:00 -0500
 categories: events
 ---
 
